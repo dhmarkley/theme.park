@@ -3,13 +3,13 @@
     --main-bg-color: transparent;
     --logo: url(https://github.com/dhmarkley/theme.park/css/addons/unraid/login-page/fallout/logo/vault-tec_green.png) center no-repeat;
     --text-color: #FF0000;
-    --input-color: #14F074;
-    --link-color: #14F074;
+    --input-color: #FF0000;
+    --link-color: #FF0000;
     --link-color-hover: #0C833D;
-    --case-color: #14F074;
-    --button-text-color: #14F074;
+    --case-color: #FF0000;
+    --button-text-color: #FF0000;
     --button-text-color-hover: #FFFFFF;
-    --button-color: #14F074;
+    --button-color: #FF0000;
     --button-color2: #0C833D;
     --input-font: 'Share Tech Mono', monospace;
     --text-font: 'Share Tech Mono', monospace;
